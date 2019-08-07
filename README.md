@@ -10,6 +10,16 @@
 - 기술 스택
 - 기능별 구현
 
+<p float="left">
+  <img src="./images/start.gif" width="300" />
+  <img src="./images/monster.gif" width="300" /> 
+</p>
+
+<p float="left">
+  <img src="./images/toeic-monster.gif" width="300" />
+  <img src="./images/classroom.gif" width="300" /> 
+</p>
+
 &nbsp;
 
 ## 소개 
