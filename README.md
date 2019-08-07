@@ -11,13 +11,13 @@
 - 기능별 구현
 
 <p float="left">
-  <img src="./images/start.gif" width="300" />
-  <img src="./images/monster.gif" width="300" /> 
+  <img src="./images/start.gif" width="400" />
+  <img src="./images/monster.gif" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="./images/toeic-monster.gif" width="300" />
-  <img src="./images/classroom.gif" width="300" /> 
+  <img src="./images/toeic-monster.gif" width="400" />
+  <img src="./images/classroom.gif" width="400" /> 
 </p>
 
 &nbsp;
@@ -44,4 +44,8 @@
 
 &nbsp;
 
+---
+
 ## 기능 별 구현
+
+(게임 프로젝트 특성상 각종 asset 이 포함되어 용량이 큰 관계로 프로젝트 전체를 올리지 못함. 핵심 코드만 git 에 남김)
